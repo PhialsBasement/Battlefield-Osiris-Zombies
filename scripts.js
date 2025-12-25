@@ -2083,7 +2083,7 @@ export function OnPlayerJoinGame(player: mod.Player) {
         mod.SetTeam(player, mod.GetTeam(2));
         
         let playerId = mod.GetObjId(player);
-        playerPoints.set(playerId, 500000);
+        playerPoints.set(playerId, 500);
         
         console.log("Player joined. Total players: ", playerCount);
     }
