@@ -443,32 +443,6 @@
             "id": "ZSpawners/AI_Spawner"
         },
         {
-            "name": "Glass_01_Tall",
-            "ObjId": 12001,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -88.49807916752,
-                "y": 62.7303,
-                "z": -56.54973166268
-            },
-            "id": "ZSpawners/Glass_01_Tall"
-        },
-        {
             "name": "AI_Spawner2",
             "ObjId": 102,
             "type": "AI_Spawner",
@@ -493,32 +467,6 @@
                 "z": -53.49024395558
             },
             "id": "ZSpawners/AI_Spawner2"
-        },
-        {
-            "name": "Glass_01_Tall2",
-            "ObjId": 12002,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -88.49809710584,
-                "y": 62.7303,
-                "z": -53.44889053256
-            },
-            "id": "ZSpawners/Glass_01_Tall2"
         },
         {
             "name": "AI_Spawner3",
@@ -547,32 +495,6 @@
             "id": "ZSpawners/AI_Spawner3"
         },
         {
-            "name": "Glass_01_Tall3",
-            "ObjId": 12003,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -88.49812455054,
-                "y": 62.7303,
-                "z": -51.11635952064
-            },
-            "id": "ZSpawners/Glass_01_Tall3"
-        },
-        {
             "name": "AI_Spawner4",
             "ObjId": 104,
             "type": "AI_Spawner",
@@ -597,32 +519,6 @@
                 "z": -49.95939952568
             },
             "id": "ZSpawners/AI_Spawner4"
-        },
-        {
-            "name": "Glass_01_Tall4",
-            "ObjId": 12004,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -88.49812159062,
-                "y": 62.7303,
-                "z": -49.62113974836
-            },
-            "id": "ZSpawners/Glass_01_Tall4"
         },
         {
             "name": "AI_Spawner5",
@@ -651,32 +547,6 @@
             "id": "ZSpawners/AI_Spawner5"
         },
         {
-            "name": "Glass_01_Tall5",
-            "ObjId": 12005,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -88.49811067202,
-                "y": 62.7303,
-                "z": -48.56512583006
-            },
-            "id": "ZSpawners/Glass_01_Tall5"
-        },
-        {
             "name": "AI_Spawner6",
             "ObjId": 106,
             "type": "AI_Spawner",
@@ -701,32 +571,6 @@
                 "z": -48.97252534036
             },
             "id": "ZSpawners/AI_Spawner6"
-        },
-        {
-            "name": "Glass_01_Tall6",
-            "ObjId": 12006,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -89.76822733338,
-                "y": 62.7303,
-                "z": -48.5650975938
-            },
-            "id": "ZSpawners/Glass_01_Tall6"
         },
         {
             "name": "AI_Spawner7",
@@ -755,32 +599,6 @@
             "id": "ZSpawners/AI_Spawner7"
         },
         {
-            "name": "Glass_01_Tall7",
-            "ObjId": 12007,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -89.76824960212,
-                "y": 62.7303,
-                "z": -50.06401731428
-            },
-            "id": "ZSpawners/Glass_01_Tall7"
-        },
-        {
             "name": "AI_Spawner8",
             "ObjId": 108,
             "type": "AI_Spawner",
@@ -805,32 +623,6 @@
                 "z": -51.51894095786
             },
             "id": "ZSpawners/AI_Spawner8"
-        },
-        {
-            "name": "Glass_01_Tall8",
-            "ObjId": 12008,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -89.76820808508,
-                "y": 62.7303,
-                "z": -51.18663238762
-            },
-            "id": "ZSpawners/Glass_01_Tall8"
         },
         {
             "name": "AI_Spawner9",
@@ -859,32 +651,6 @@
             "id": "ZSpawners/AI_Spawner9"
         },
         {
-            "name": "Glass_01_Tall9",
-            "ObjId": 12009,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -89.76820524746,
-                "y": 62.7303,
-                "z": -53.17895876886
-            },
-            "id": "ZSpawners/Glass_01_Tall9"
-        },
-        {
             "name": "AI_Spawner10",
             "ObjId": 110,
             "type": "AI_Spawner",
@@ -909,32 +675,6 @@
                 "z": -59.47140306746
             },
             "id": "ZSpawners/AI_Spawner10"
-        },
-        {
-            "name": "Glass_01_Tall10",
-            "ObjId": 12010,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -95.8135448454,
-                "y": 62.0998,
-                "z": -59.57139513292
-            },
-            "id": "ZSpawners/Glass_01_Tall10"
         },
         {
             "name": "AI_Spawner11",
@@ -963,32 +703,6 @@
             "id": "ZSpawners/AI_Spawner11"
         },
         {
-            "name": "Glass_01_Tall11",
-            "ObjId": 12011,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -97.99047386084,
-                "y": 62.0998,
-                "z": -59.57143460298
-            },
-            "id": "ZSpawners/Glass_01_Tall11"
-        },
-        {
             "name": "AI_Spawner12",
             "ObjId": 112,
             "type": "AI_Spawner",
@@ -1013,32 +727,6 @@
                 "z": -60.67030484872
             },
             "id": "ZSpawners/AI_Spawner12"
-        },
-        {
-            "name": "Glass_01_Tall12",
-            "ObjId": 12012,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -96.01658372836,
-                "y": 62.0998,
-                "z": -61.18795694696
-            },
-            "id": "ZSpawners/Glass_01_Tall12"
         },
         {
             "name": "AI_Spawner13",
@@ -1067,32 +755,6 @@
             "id": "ZSpawners/AI_Spawner13"
         },
         {
-            "name": "Glass_01_Tall13",
-            "ObjId": 12013,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -96.01656523276,
-                "y": 62.0998,
-                "z": -58.2909187041
-            },
-            "id": "ZSpawners/Glass_01_Tall13"
-        },
-        {
             "name": "AI_Spawner14",
             "ObjId": 114,
             "type": "AI_Spawner",
@@ -1117,32 +779,6 @@
                 "z": -58.65710139388
             },
             "id": "ZSpawners/AI_Spawner14"
-        },
-        {
-            "name": "Glass_01_Tall14",
-            "ObjId": 12014,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -97.41211663422,
-                "y": 62.0998,
-                "z": -58.94874457964
-            },
-            "id": "ZSpawners/Glass_01_Tall14"
         },
         {
             "name": "AI_Spawner15",
@@ -1171,32 +807,6 @@
             "id": "ZSpawners/AI_Spawner15"
         },
         {
-            "name": "Glass_01_Tall15",
-            "ObjId": 12015,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -94.60147979106,
-                "y": 62.0998,
-                "z": -58.9488121812
-            },
-            "id": "ZSpawners/Glass_01_Tall15"
-        },
-        {
             "name": "AI_Spawner16",
             "ObjId": 116,
             "type": "AI_Spawner",
@@ -1221,32 +831,6 @@
                 "z": -58.66840854986
             },
             "id": "ZSpawners/AI_Spawner16"
-        },
-        {
-            "name": "Glass_01_Tall16",
-            "ObjId": 12016,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -93.07043301476,
-                "y": 62.0998,
-                "z": -58.6562982369
-            },
-            "id": "ZSpawners/Glass_01_Tall16"
         },
         {
             "name": "AI_Spawner17",
@@ -1275,32 +859,6 @@
             "id": "ZSpawners/AI_Spawner17"
         },
         {
-            "name": "Glass_01_Tall17",
-            "ObjId": 12017,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -91.56281289422,
-                "y": 62.0998,
-                "z": -58.65626590886
-            },
-            "id": "ZSpawners/Glass_01_Tall17"
-        },
-        {
             "name": "AI_Spawner18",
             "ObjId": 118,
             "type": "AI_Spawner",
@@ -1325,32 +883,6 @@
                 "z": -58.6749895325
             },
             "id": "ZSpawners/AI_Spawner18"
-        },
-        {
-            "name": "Glass_01_Tall18",
-            "ObjId": 12018,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -90.19849494236,
-                "y": 62.0998,
-                "z": -58.65628574424
-            },
-            "id": "ZSpawners/Glass_01_Tall18"
         },
         {
             "name": "AI_Spawner19",
@@ -1379,32 +911,6 @@
             "id": "ZSpawners/AI_Spawner19"
         },
         {
-            "name": "Glass_01_Tall19",
-            "ObjId": 12019,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -90.19847532808,
-                "y": 62.0998,
-                "z": -57.46447007412
-            },
-            "id": "ZSpawners/Glass_01_Tall19"
-        },
-        {
             "name": "AI_Spawner20",
             "ObjId": 120,
             "type": "AI_Spawner",
@@ -1429,32 +935,6 @@
                 "z": -57.62898080008
             },
             "id": "ZSpawners/AI_Spawner20"
-        },
-        {
-            "name": "Glass_01_Tall20",
-            "ObjId": 12020,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -99.80290231974,
-                "y": 62.0998,
-                "z": -57.46444837274
-            },
-            "id": "ZSpawners/Glass_01_Tall20"
         },
         {
             "name": "AI_Spawner21",
@@ -1483,32 +963,6 @@
             "id": "ZSpawners/AI_Spawner21"
         },
         {
-            "name": "Glass_01_Tall21",
-            "ObjId": 12021,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -129.3276785702,
-                "y": 62.0998,
-                "z": -56.25445424432
-            },
-            "id": "ZSpawners/Glass_01_Tall21"
-        },
-        {
             "name": "AI_Spawner22",
             "ObjId": 122,
             "type": "AI_Spawner",
@@ -1533,32 +987,6 @@
                 "z": -54.35524664
             },
             "id": "ZSpawners/AI_Spawner22"
-        },
-        {
-            "name": "Glass_01_Tall22",
-            "ObjId": 12022,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -129.32769072164,
-                "y": 62.0998,
-                "z": -54.60883240276
-            },
-            "id": "ZSpawners/Glass_01_Tall22"
         },
         {
             "name": "AI_Spawner23",
@@ -1587,32 +1015,6 @@
             "id": "ZSpawners/AI_Spawner23"
         },
         {
-            "name": "Glass_01_Tall23",
-            "ObjId": 12023,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -129.32771944778,
-                "y": 62.0998,
-                "z": -53.00471102392
-            },
-            "id": "ZSpawners/Glass_01_Tall23"
-        },
-        {
             "name": "AI_Spawner24",
             "ObjId": 124,
             "type": "AI_Spawner",
@@ -1637,32 +1039,6 @@
                 "z": -51.64020817556
             },
             "id": "ZSpawners/AI_Spawner24"
-        },
-        {
-            "name": "Glass_01_Tall24",
-            "ObjId": 12024,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -129.94299232606,
-                "y": 62.0998,
-                "z": -50.9092724274
-            },
-            "id": "ZSpawners/Glass_01_Tall24"
         },
         {
             "name": "AI_Spawner25",
@@ -1691,32 +1067,6 @@
             "id": "ZSpawners/AI_Spawner25"
         },
         {
-            "name": "Glass_01_Tall25",
-            "ObjId": 12025,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -97.07254687366,
-                "y": 62.0998,
-                "z": -12.75530533614
-            },
-            "id": "ZSpawners/Glass_01_Tall25"
-        },
-        {
             "name": "AI_Spawner30",
             "ObjId": 130,
             "type": "AI_Spawner",
@@ -1741,32 +1091,6 @@
                 "z": -10.54870152046
             },
             "id": "ZSpawners/AI_Spawner30"
-        },
-        {
-            "name": "Glass_01_Tall30",
-            "ObjId": 12030,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -97.072494026686,
-                "y": 62.0998,
-                "z": -10.56068656836
-            },
-            "id": "ZSpawners/Glass_01_Tall30"
         },
         {
             "name": "AI_Spawner31",
@@ -1795,32 +1119,6 @@
             "id": "ZSpawners/AI_Spawner31"
         },
         {
-            "name": "Glass_01_Tall31",
-            "ObjId": 12031,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -98.098707579396,
-                "y": 62.0998,
-                "z": -10.56068116614
-            },
-            "id": "ZSpawners/Glass_01_Tall31"
-        },
-        {
             "name": "AI_Spawner32",
             "ObjId": 12034,
             "type": "AI_Spawner",
@@ -1845,32 +1143,6 @@
                 "z": -20.68075290116
             },
             "id": "ZSpawners/AI_Spawner32"
-        },
-        {
-            "name": "Glass_01_Tall32",
-            "ObjId": 12033,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -96.86900405424,
-                "y": 64.4183,
-                "z": -20.68077243108
-            },
-            "id": "ZSpawners/Glass_01_Tall32"
         },
         {
             "name": "AI_Spawner26",
@@ -1899,32 +1171,6 @@
             "id": "ZSpawners/AI_Spawner26"
         },
         {
-            "name": "Glass_01_Tall26",
-            "ObjId": 12026,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -97.07250016874,
-                "y": 62.0998,
-                "z": -18.5141817928
-            },
-            "id": "ZSpawners/Glass_01_Tall26"
-        },
-        {
             "name": "AI_Spawner27",
             "ObjId": 127,
             "type": "AI_Spawner",
@@ -1949,32 +1195,6 @@
                 "z": -16.97800526314
             },
             "id": "ZSpawners/AI_Spawner27"
-        },
-        {
-            "name": "Glass_01_Tall27",
-            "ObjId": 12027,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -90.20983036266,
-                "y": 62.0998,
-                "z": -17.21517815788
-            },
-            "id": "ZSpawners/Glass_01_Tall27"
         },
         {
             "name": "AI_Spawner28",
@@ -2003,32 +1223,6 @@
             "id": "ZSpawners/AI_Spawner28"
         },
         {
-            "name": "Glass_01_Tall28",
-            "ObjId": 12028,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -98.080455653334,
-                "y": 62.0998,
-                "z": 7.74913589626
-            },
-            "id": "ZSpawners/Glass_01_Tall28"
-        },
-        {
             "name": "AI_Spawner29",
             "ObjId": 129,
             "type": "AI_Spawner",
@@ -2053,32 +1247,6 @@
                 "z": 7.13763980772
             },
             "id": "ZSpawners/AI_Spawner29"
-        },
-        {
-            "name": "Glass_01_Tall29",
-            "ObjId": 12029,
-            "type": "Glass_01_Tall",
-            "right": {
-                "x": 1.00000023396796,
-                "y": 0,
-                "z": -5.2186e-09
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 5.2186e-09,
-                "y": 0,
-                "z": 1.00000023396796
-            },
-            "position": {
-                "x": -96.623786622382,
-                "y": 62.0998,
-                "z": 5.65082634842
-            },
-            "id": "ZSpawners/Glass_01_Tall29"
         },
         {
             "name": "BarrierStoneBlock_01_G",
@@ -3061,31 +2229,6 @@
             "id": "debris/WorldIcon2"
         },
         {
-            "name": "VendingMachine_01_Abbasid",
-            "type": "VendingMachine_01_Abbasid",
-            "right": {
-                "x": -0.99998091899127,
-                "y": 0,
-                "z": -0.0062482656948
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0.0062482656948,
-                "y": 0,
-                "z": -0.99998091899127
-            },
-            "position": {
-                "x": -100.37227204933714,
-                "y": 69.79697,
-                "z": -15.2408649830562
-            },
-            "id": "PaP/VendingMachine_01_Abbasid"
-        },
-        {
             "name": "InteractPoint5",
             "ObjId": 710,
             "type": "InteractPoint",
@@ -3105,9 +2248,9 @@
                 "z": 0.0464091
             },
             "position": {
-                "x": -101.461,
+                "x": -100.94279416445812,
                 "y": 70.9999,
-                "z": -15.2847
+                "z": -16.38268122688045
             },
             "id": "PaP/InteractPoint5"
         },
@@ -3131,36 +2274,11 @@
                 "z": 0.0464091
             },
             "position": {
-                "x": -101.01919058796491,
-                "y": 71.759635,
-                "z": -15.2284144836787
+                "x": -101.03040231797856,
+                "y": 71.7596351,
+                "z": -16.326392538095067
             },
             "id": "PaP/WorldIcon"
-        },
-        {
-            "name": "DebrisPileSoukInteriorCorner_01",
-            "type": "DebrisPileSoukInteriorCorner_01",
-            "right": {
-                "x": 0.00949092,
-                "y": -0.14759,
-                "z": -0.989003
-            },
-            "up": {
-                "x": -0.0207392,
-                "y": 0.988806,
-                "z": -0.147759
-            },
-            "front": {
-                "x": 0.99974,
-                "y": 0.0219135,
-                "z": 0.00632375
-            },
-            "position": {
-                "x": -96.3572,
-                "y": 63.4652,
-                "z": -39.6044
-            },
-            "id": "DebrisPileSoukInteriorCorner_01"
         },
         {
             "name": "SandBagsDoorBlock_01_256x256",
@@ -3389,7 +2507,7 @@
         },
         {
             "name": "WorldIcon",
-            "ObjId": 11001,
+            "ObjId": 1001,
             "type": "WorldIcon",
             "right": {
                 "x": -0.999874,
@@ -3415,7 +2533,7 @@
         },
         {
             "name": "WorldIcon2",
-            "ObjId": 11002,
+            "ObjId": 1002,
             "type": "WorldIcon",
             "right": {
                 "x": -0.999874,
@@ -3441,7 +2559,7 @@
         },
         {
             "name": "WorldIcon4",
-            "ObjId": 11003,
+            "ObjId": 1003,
             "type": "WorldIcon",
             "right": {
                 "x": -0.999874,
@@ -3467,7 +2585,7 @@
         },
         {
             "name": "WorldIcon6",
-            "ObjId": 11004,
+            "ObjId": 1004,
             "type": "WorldIcon",
             "right": {
                 "x": -0.999874,
@@ -3492,6 +2610,526 @@
             "id": "PowerUppool/WorldIcon6"
         },
         {
+            "name": "WorldIcon",
+            "ObjId": 1100,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -45.5147,
+                "y": 71.538708,
+                "z": -37.9697077
+            },
+            "id": "dmgNoPool/WorldIcon"
+        },
+        {
+            "name": "WorldIcon2",
+            "ObjId": 1101,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -44.5149,
+                "y": 71.538708,
+                "z": -37.985573
+            },
+            "id": "dmgNoPool/WorldIcon2"
+        },
+        {
+            "name": "WorldIcon4",
+            "ObjId": 1102,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -43.515,
+                "y": 71.538708,
+                "z": -38.0014345
+            },
+            "id": "dmgNoPool/WorldIcon4"
+        },
+        {
+            "name": "WorldIcon6",
+            "ObjId": 1103,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -42.5151,
+                "y": 71.538708,
+                "z": -38.01729983
+            },
+            "id": "dmgNoPool/WorldIcon6"
+        },
+        {
+            "name": "WorldIcon3",
+            "ObjId": 1104,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -41.647297,
+                "y": 71.5387084,
+                "z": -37.969707668
+            },
+            "id": "dmgNoPool/WorldIcon3"
+        },
+        {
+            "name": "WorldIcon5",
+            "ObjId": 1105,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -40.647496,
+                "y": 71.5387084,
+                "z": -37.985572994
+            },
+            "id": "dmgNoPool/WorldIcon5"
+        },
+        {
+            "name": "WorldIcon7",
+            "ObjId": 1106,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -39.647595,
+                "y": 71.5387084,
+                "z": -38.001434505
+            },
+            "id": "dmgNoPool/WorldIcon7"
+        },
+        {
+            "name": "WorldIcon8",
+            "ObjId": 1107,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -38.647694,
+                "y": 71.5387084,
+                "z": -38.017299831
+            },
+            "id": "dmgNoPool/WorldIcon8"
+        },
+        {
+            "name": "WorldIcon9",
+            "ObjId": 1108,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -37.7094465,
+                "y": 71.5387084,
+                "z": -37.969707668
+            },
+            "id": "dmgNoPool/WorldIcon9"
+        },
+        {
+            "name": "WorldIcon10",
+            "ObjId": 1109,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -36.709645,
+                "y": 71.5387084,
+                "z": -37.985572994
+            },
+            "id": "dmgNoPool/WorldIcon10"
+        },
+        {
+            "name": "WorldIcon11",
+            "ObjId": 1110,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -35.709744,
+                "y": 71.5387084,
+                "z": -38.001434505
+            },
+            "id": "dmgNoPool/WorldIcon11"
+        },
+        {
+            "name": "WorldIcon12",
+            "ObjId": 1111,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -34.709843,
+                "y": 71.5387084,
+                "z": -38.017299831
+            },
+            "id": "dmgNoPool/WorldIcon12"
+        },
+        {
+            "name": "WorldIcon13",
+            "ObjId": 1112,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -33.8420415,
+                "y": 71.5387084,
+                "z": -37.969707668
+            },
+            "id": "dmgNoPool/WorldIcon13"
+        },
+        {
+            "name": "WorldIcon14",
+            "ObjId": 1113,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -32.84224,
+                "y": 71.5387084,
+                "z": -37.985572994
+            },
+            "id": "dmgNoPool/WorldIcon14"
+        },
+        {
+            "name": "WorldIcon15",
+            "ObjId": 1114,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -31.842339,
+                "y": 71.5387084,
+                "z": -38.001434505
+            },
+            "id": "dmgNoPool/WorldIcon15"
+        },
+        {
+            "name": "WorldIcon16",
+            "ObjId": 1115,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -30.8424383,
+                "y": 71.5387084,
+                "z": -38.017299831
+            },
+            "id": "dmgNoPool/WorldIcon16"
+        },
+        {
+            "name": "WorldIcon17",
+            "ObjId": 1116,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -29.8872,
+                "y": 71.5387084,
+                "z": -37.969707668
+            },
+            "id": "dmgNoPool/WorldIcon17"
+        },
+        {
+            "name": "WorldIcon18",
+            "ObjId": 1117,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -28.8873983,
+                "y": 71.5387084,
+                "z": -37.985572994
+            },
+            "id": "dmgNoPool/WorldIcon18"
+        },
+        {
+            "name": "WorldIcon19",
+            "ObjId": 1118,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -27.8874975,
+                "y": 71.5387084,
+                "z": -38.001434505
+            },
+            "id": "dmgNoPool/WorldIcon19"
+        },
+        {
+            "name": "WorldIcon20",
+            "ObjId": 1119,
+            "type": "WorldIcon",
+            "right": {
+                "x": -0.999874,
+                "y": 0,
+                "z": 0.0158643
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.0158643,
+                "y": 0,
+                "z": -0.999874
+            },
+            "position": {
+                "x": -26.88759666,
+                "y": 71.5387084,
+                "z": -38.017299831
+            },
+            "id": "dmgNoPool/WorldIcon20"
+        },
+        {
             "name": "CrateAmmo_01",
             "type": "CrateAmmo_01",
             "right": {
@@ -3511,7 +3149,7 @@
             },
             "position": {
                 "x": -100.361,
-                "y": 68.8282,
+                "y": 69.1417,
                 "z": -53.7458
             },
             "id": "CrateAmmo_01"
@@ -3536,7 +3174,7 @@
             },
             "position": {
                 "x": -100.435,
-                "y": 68.0943,
+                "y": 68.4078,
                 "z": -54.2106
             },
             "id": "CrateAmmo_01_StackC"
@@ -3561,7 +3199,7 @@
             },
             "position": {
                 "x": -100.435,
-                "y": 68.0943,
+                "y": 68.4078,
                 "z": -53.3878
             },
             "id": "CrateAmmo_01_StackC2"
@@ -3587,7 +3225,7 @@
             },
             "position": {
                 "x": -100.473,
-                "y": 69.3668,
+                "y": 69.6803,
                 "z": -53.7252
             },
             "id": "InteractPoint"
@@ -3614,7 +3252,7 @@
             },
             "position": {
                 "x": -100.457,
-                "y": 70.1966,
+                "y": 70.5101,
                 "z": -53.7716
             },
             "id": "WorldIcon"
@@ -6445,81 +6083,6 @@
             "id": "BarrierHesco_01_128x120"
         },
         {
-            "name": "BusOnSide_Occluders",
-            "type": "BusOnSide_Occluders",
-            "right": {
-                "x": 0.988741,
-                "y": 0,
-                "z": -0.149639
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0.149639,
-                "y": 0,
-                "z": 0.988741
-            },
-            "position": {
-                "x": -133.558,
-                "y": 65.6504,
-                "z": -52.754
-            },
-            "id": "BusOnSide_Occluders"
-        },
-        {
-            "name": "BusWreck_02",
-            "type": "BusWreck_02",
-            "right": {
-                "x": 1,
-                "y": 0,
-                "z": 0
-            },
-            "up": {
-                "x": 0,
-                "y": 0.970737,
-                "z": -0.240143
-            },
-            "front": {
-                "x": 0,
-                "y": 0.240143,
-                "z": 0.970737
-            },
-            "position": {
-                "x": -137.133,
-                "y": 65.7647,
-                "z": -65.5478
-            },
-            "id": "BusWreck_02"
-        },
-        {
-            "name": "BusStop_01_B",
-            "type": "BusStop_01_B",
-            "right": {
-                "x": 0.25499,
-                "y": 0,
-                "z": -0.966944
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0.966944,
-                "y": 0,
-                "z": 0.25499
-            },
-            "position": {
-                "x": -135.717,
-                "y": 64.1682,
-                "z": -61.3011
-            },
-            "id": "BusStop_01_B"
-        },
-        {
             "name": "FX_BASE_Fire_Oil_Medium",
             "type": "FX_BASE_Fire_Oil_Medium",
             "right": {
@@ -7205,9 +6768,9 @@
             "name": "VendingMachine_01_Abbasid",
             "type": "VendingMachine_01_Abbasid",
             "right": {
-                "x": -0.999083,
+                "x": -1,
                 "y": 0,
-                "z": -0.0428173
+                "z": -8.742278e-08
             },
             "up": {
                 "x": 0,
@@ -7215,145 +6778,16 @@
                 "z": 0
             },
             "front": {
-                "x": 0.0428173,
+                "x": 8.742278e-08,
                 "y": 0,
-                "z": -0.999083
+                "z": -1
             },
             "position": {
-                "x": -99.8027,
-                "y": 68.1598,
-                "z": -49.5417
+                "x": -100.31485,
+                "y": 69.7157,
+                "z": -16.351233
             },
             "id": "VendingMachine_01_Abbasid"
-        },
-        {
-            "name": "InteractPoint5",
-            "ObjId": 213,
-            "type": "InteractPoint",
-            "right": {
-                "x": 1,
-                "y": 0,
-                "z": 0
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0,
-                "y": 0,
-                "z": 1
-            },
-            "position": {
-                "x": -100.36,
-                "y": 69.6538,
-                "z": -49.5399
-            },
-            "id": "InteractPoint5"
-        },
-        {
-            "name": "WorldIcon5",
-            "ObjId": 313,
-            "type": "WorldIcon",
-            "right": {
-                "x": 0.131858,
-                "y": 0,
-                "z": -0.991269
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0.991269,
-                "y": 0,
-                "z": 0.131858
-            },
-            "position": {
-                "x": -100.362,
-                "y": 69.9739,
-                "z": -49.5324
-            },
-            "id": "WorldIcon5"
-        },
-        {
-            "name": "VendingCart_01",
-            "type": "VendingCart_01",
-            "right": {
-                "x": -0.00757465,
-                "y": 0,
-                "z": -0.999971
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0.999971,
-                "y": 0,
-                "z": -0.00757465
-            },
-            "position": {
-                "x": -123.44,
-                "y": 65.6526,
-                "z": -4.63428
-            },
-            "id": "VendingCart_01"
-        },
-        {
-            "name": "InteractPoint6",
-            "ObjId": 214,
-            "type": "InteractPoint",
-            "right": {
-                "x": 1,
-                "y": 0,
-                "z": 0
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0,
-                "y": 0,
-                "z": 1
-            },
-            "position": {
-                "x": -123.106,
-                "y": 66.4533,
-                "z": -4.58772
-            },
-            "id": "InteractPoint6"
-        },
-        {
-            "name": "WorldIcon6",
-            "ObjId": 314,
-            "type": "WorldIcon",
-            "right": {
-                "x": 0.0751354,
-                "y": 0,
-                "z": -0.997173
-            },
-            "up": {
-                "x": 0,
-                "y": 1,
-                "z": 0
-            },
-            "front": {
-                "x": 0.997173,
-                "y": 0,
-                "z": 0.0751354
-            },
-            "position": {
-                "x": -123.264,
-                "y": 67.0724,
-                "z": -4.52954
-            },
-            "id": "WorldIcon6"
         }
     ],
     "Static": [
